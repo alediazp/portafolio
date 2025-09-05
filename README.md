@@ -1,1 +1,2 @@
-Archivo html que contiene página de portafolio estático de Alexis Diaz
+Repositorio con archivos que componen página de portafolio estático de Alexis Diaz.
+Desarrollado para Desafio Latam
